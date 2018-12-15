@@ -1,4 +1,4 @@
-#Description
+## Description <h2> tag
 Accroding to 1st "Programming" and "Docker", I did 2 versions:
 1st - As it mentioned in exercise
 2nd - How I would do it if it were in production
@@ -17,7 +17,7 @@ Ansible task: just a simple playbook and a shell script to run it.
 ./install_docker.sh
 ```
 
-#Execrise 1
+## Execrise 1 <h2> tag
 
 **Programming**
 

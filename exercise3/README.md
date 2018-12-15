@@ -1,4 +1,4 @@
-#Description
+## Description <h2> tag
 
 Role Variables
 --------------
@@ -53,7 +53,7 @@ Install rsyslog and configure logging options for testapp
 ```
 
 
-#Execrise 3
+## Execrise 3 <h2> tag
 **Syslog configuration**
 
 Configure rsyslog service with the following settings:
