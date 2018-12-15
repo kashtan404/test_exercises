@@ -1,2 +1,2 @@
-# test_exercises_1
+# test_exercises
 This is a repo for one good company to show my abilities
